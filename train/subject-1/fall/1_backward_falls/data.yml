@@ -1,0 +1,10 @@
+path: /kaggle/working/dataset
+train: images/train
+val: images/val
+test: images/test
+
+# Jumlah kelas
+nc: 2
+
+# Nama kelas
+names: ['fall', 'non_fall']
